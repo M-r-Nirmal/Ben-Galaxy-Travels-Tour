@@ -1,0 +1,20 @@
+[01-Aug-2022 01:27:25 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AmadeusDahabtours\SelfServiceApiClient::__construct(), 2 passed in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 6 and exactly 3 expected in /home5/nkartravels/searchsrilanka.com/flightengine/3/AmadeusClient.php:300
+Stack trace:
+#0 /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php(6): AmadeusDahabtours\SelfServiceApiClient->__construct('RHrADtcPCJM0imb...', 'Qn8iRPfTmrMqcj0...')
+#1 {main}
+  thrown in /home5/nkartravels/searchsrilanka.com/flightengine/3/AmadeusClient.php on line 300
+[01-Aug-2022 01:27:40 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AmadeusDahabtours\SelfServiceApiClient::__construct(), 2 passed in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 6 and exactly 3 expected in /home5/nkartravels/searchsrilanka.com/flightengine/3/AmadeusClient.php:300
+Stack trace:
+#0 /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php(6): AmadeusDahabtours\SelfServiceApiClient->__construct('RHrADtcPCJM0imb...', 'Qn8iRPfTmrMqcj0...')
+#1 {main}
+  thrown in /home5/nkartravels/searchsrilanka.com/flightengine/3/AmadeusClient.php on line 300
+[01-Aug-2022 01:28:46 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'SelfServiceApiClient' not found in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php:6
+Stack trace:
+#0 {main}
+  thrown in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 6
+[01-Aug-2022 02:33:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home5/nkartravels/searchsrilanka.com/flightengine/3/AmadeusClient.php on line 307
+[01-Aug-2022 02:41:07 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 6
+[01-Aug-2022 02:43:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 6
+[01-Aug-2022 03:05:44 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 39
+[01-Aug-2022 03:06:14 America/Chicago] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 39
+[01-Aug-2022 03:06:14 America/Chicago] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/nkartravels/searchsrilanka.com/flightengine/3/test/integration/test.php on line 42
